@@ -1,0 +1,9 @@
+## Interface: 30100
+
+## Title: XMerchant
+## Title-zhCN: |cffff8800商业|rXMerchant
+## Notes-zhCN: 自动售卖,修理,显示装备耐久...
+## Author: xnotepad
+## Version: 0.1
+## SavedVariablesPerCharacter: ConfigDB
+XMerchant.xml
